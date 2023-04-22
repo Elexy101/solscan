@@ -3,6 +3,10 @@
 <img src="/logo.png" width="300"/>
 Solscan is a static Solidity vulnerabilities scanner written in Python. It works based on regular expressions and contextual analyse of your code. Solscan is able to scan contracts regardless of their version or ability to compile (you can even scan a single function without a need to have a whole smart contract ready).
 
+![test3](https://user-images.githubusercontent.com/24855083/233805568-9f00b294-2515-4158-b176-b23fc0fe72b9.png)
+
+![test4](https://user-images.githubusercontent.com/24855083/233805606-c5bab618-878e-4986-9ad9-e4b2981b996e.png)
+
 
 ## Features
 * Support of 28 vulnerabilities
